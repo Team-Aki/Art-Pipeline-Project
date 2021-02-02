@@ -18,11 +18,11 @@ any changes made on runtime will be discarded when you stop running it
 
 # 5
 Change the parameters in the material
--shadow size changes the ammount of shadow present
--shadow blend smooths the edge of the shadow
--shadow colour should be left on default unless it NEEDS to be changed
--edge light size and blend affect the cell shading effect
--the posterize colour channels dictate the number of steps to include in the posterize filter
+- shadow size changes the ammount of shadow present
+- shadow blend smooths the edge of the shadow
+- shadow colour should be left on default unless it NEEDS to be changed
+- edge light size and blend affect the cell shading effect
+- the posterize colour channels dictate the number of steps to include in the posterize filter
 
 # 6
 Once ready you should place the FBX, materials and texture maps in a folder
